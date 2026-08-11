@@ -1,5 +1,7 @@
 # secure-headers-audit
 
+[![CI](https://github.com/1B05H1N/secure-headers-audit/actions/workflows/ci.yml/badge.svg)](https://github.com/1B05H1N/secure-headers-audit/actions/workflows/ci.yml)
+
 Audit and grade the HTTP security response headers of a site. Fetches URLs (or
 grades a saved header set offline) and scores HSTS, CSP, X-Content-Type-Options,
 X-Frame-Options, Referrer-Policy, Permissions-Policy, and version disclosure.
